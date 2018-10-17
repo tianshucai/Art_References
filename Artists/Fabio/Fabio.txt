@@ -1,0 +1,9 @@
+Gender:Male
+Birthdate:May 30th 1982
+Location: Irvine
+Website:www.fabiobarretta.com
+
+Hobbies: Painting, photography
+Movies:Blade runner, alien, the nightmare before christmas
+Artists:Alberto mielgo, sergio toppi, robh ruppel, moebius, massimo carnevale,
+Tools:Photoshop
