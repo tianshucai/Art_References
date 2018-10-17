@@ -1,0 +1,9 @@
+Status:Concept Artist at Sony Santa Monica
+Name:Anthony Jones
+Gender:Male
+Birthdate:Apr 5th 1984
+Location: Irvine
+Website:Robotpencil
+Member Type:Professional
+Field:OtherConcept Artist
+Current employer:Blizzard Entertainment
