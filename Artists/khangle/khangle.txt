@@ -1,0 +1,8 @@
+khangle
+
+Gender:Male
+Birthdate:Jun 2nd 1981
+Location: Temple City
+Website:http://khang-le.com
+Member Type:Professional
+Current employer:Adhesive Games
