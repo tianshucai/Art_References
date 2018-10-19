@@ -1,0 +1,6 @@
+Name:Woo Kim
+Gender:Male
+Birthdate:Jan 19th 1980
+Location: Songnam
+Member Type:Professional
+Available for Work? Yes - Freelance

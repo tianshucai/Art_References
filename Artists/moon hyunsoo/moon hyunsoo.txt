@@ -1,0 +1,6 @@
+Name:moon hyunsoo
+Gender:Male
+Location: seoul
+Website:blog
+Member Type:Professional
+Field:GamesArt director
